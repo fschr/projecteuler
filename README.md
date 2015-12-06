@@ -4,4 +4,4 @@
 This repository contains my solutions for [Project Euler](http://projecteuler.net). Feel free to use them as you wish.
 
 # What languages do you use in this repository?
-My favorite languages are Python, C++, and Haskell. I'm trying to get better at those languages. I might try out OCaml, too. These are the languages I use in this repository.
+My favorite languages are Python, C++. I'm trying to get better at those languages. I also want to learn Go, Haskell, and maybe OCaml. I intend to use these languages I use in this repository.
