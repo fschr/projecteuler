@@ -23,4 +23,4 @@ while count < 10001:
         count += 1
     i += 2
 
-print(i - 2p)
+print(i - 2)
