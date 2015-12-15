@@ -13,6 +13,8 @@ package main
 import "fmt"
 import "os"
 
+/* Brute force :( */
+
 func pythagorean_triplet(a int, b int, c int) bool {
 	return a * a + b * b == c * c
 }
