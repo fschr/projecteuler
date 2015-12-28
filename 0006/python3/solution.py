@@ -10,7 +10,7 @@ Hence the difference between the sum of the squares of the first ten natural num
 Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum.
 """
 
-# The square of the sum of the first n natural numbers is n(n+1)n/2
+# The square of the sum of the first n natural numbers is ((n+1)n/2)^2
 # The sum of the squares of the first n natural numbers is n(n+1)(2n + 1)/6
 
 print( (100 * (100 + 1) // 2) ** 2 - \
