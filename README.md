@@ -8,11 +8,11 @@ This repository contains my solutions for [Project Euler](http://projecteuler.ne
 ### Currently
 
 * Go
+* Haskell
 * Python
 
 ### I intend to add _______ solutions
 
-* Haskell
 * Rust
 * OCaml
 * C++
