@@ -7,11 +7,12 @@ For which value of p ≤ 1000, is the number of solutions maximised?
 """
 
 # Brute force :(
+# Some optimizations
 
 best_count = 0
 best_p = 0
 
-for p in range(10, 1001):
+for p in range(10, 1001, 2):
     # a^2 + b^2 = c^2
     # and
     # a + b + c = p
